@@ -1,0 +1,32 @@
+# Virtual Environment
+tesseract_env/
+venv/
+env/
+
+# Generated files
+test_images/degraded/
+ocr_results.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
